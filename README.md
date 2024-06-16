@@ -1,7 +1,7 @@
 # PNEUNOMIA-DETECTION-USING-CNN
 
 
-An automated system using machine learning techniques to accurately and efficiently detect pneumonia and other lung diseases(Tuberculosiand Covid-19) from chest X-ray images, enabling faster and more reliable
+An automated system using machine learning techniques to accurately and efficiently detect pneumonia and other lung diseases(Tuberculosis and Covid-19) from chest X-ray images, enabling faster and more reliable
 diagnoses for timely medical intervention.
 
 # METHODOLOGY
